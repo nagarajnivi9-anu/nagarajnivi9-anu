@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/niveditha-k-n-612a4b256/)">
+<a href="https://www.linkedin.com/in/niveditha-k-n-612a4b256/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
