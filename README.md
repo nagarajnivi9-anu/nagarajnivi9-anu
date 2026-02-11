@@ -32,10 +32,7 @@ Niveditha K N
 
 ## 🎯 About Me
 
-YOUR_SHORT_INTRODUCTION_PARAGRAPH
-
-Example:
-Passionate Full Stack Developer specializing in scalable backend systems.
+Passionate Full Stack Developer specializing in Python.
 Love building efficient applications and exploring AI/ML integration.
 
 ---
@@ -43,32 +40,23 @@ Love building efficient applications and exploring AI/ML integration.
 ## 🛠️ Tech Stack & Skills
 
 ### 🔥 Programming Languages
-• Language 1  
-• Language 2  
-• Language 3  
+ • Python
 
 ### 🚀 Backend
-• Framework 1  
-• Framework 2  
-• Framework 3  
+• Django   
 
-### 💅 Frontend
-• React / Vue / Angular  
+### 💅 Frontend  
 • HTML / CSS  
-• Tailwind / Bootstrap  
+• JavaScript / React JS
 
 ### 🗄️ Databases
 • PostgreSQL  
 • MySQL  
-• MongoDB  
+  
 
-### ⚙️ DevOps & Tools
+### ⚙️ Tools
 • Git  
-• Docker  
-• AWS  
-• Linux  
-
----
+• VS Code 
 
 ## 📊 GitHub Stats
 
