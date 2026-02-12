@@ -1,14 +1,14 @@
-Niveditha K N  
+# 🚀 YOUR_NAME  
 
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨+NivedithaKN;💻+Python Full Stack Developer;🚀+Masters of Computer Applications;🌟+Open+to+Collaborations!;🎯+Fresher" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨+YOUR_NAME;💻+YOUR_ROLE;🚀+YOUR_SPECIALIZATION;🌟+Open+to+Collaborations!;🎯+YOUR_TAGLINE" />
 </h1>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/niveditha-k-n-612a4b256/">
+<a href="YOUR_LINKEDIN_URL">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -16,8 +16,12 @@ Niveditha K N
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="nagarajnivi9@gmail.com">
+<a href="mailto:YOUR_EMAIL">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=firefox-browser&logoColor=white" />
 </a>
 
 </div>
@@ -32,7 +36,10 @@ Niveditha K N
 
 ## 🎯 About Me
 
-Passionate Full Stack Developer specializing in Python.
+YOUR_SHORT_INTRODUCTION_PARAGRAPH
+
+Example:
+Passionate Full Stack Developer specializing in scalable backend systems.
 Love building efficient applications and exploring AI/ML integration.
 
 ---
@@ -40,23 +47,32 @@ Love building efficient applications and exploring AI/ML integration.
 ## 🛠️ Tech Stack & Skills
 
 ### 🔥 Programming Languages
- • Python
+• Language 1  
+• Language 2  
+• Language 3  
 
 ### 🚀 Backend
-• Django   
+• Framework 1  
+• Framework 2  
+• Framework 3  
 
-### 💅 Frontend  
+### 💅 Frontend
+• React / Vue / Angular  
 • HTML / CSS  
-• JavaScript / React JS
+• Tailwind / Bootstrap  
 
 ### 🗄️ Databases
 • PostgreSQL  
 • MySQL  
-  
+• MongoDB  
 
-### ⚙️ Tools
+### ⚙️ DevOps & Tools
 • Git  
-• VS Code 
+• Docker  
+• AWS  
+• Linux  
+
+---
 
 ## 📊 GitHub Stats
 
