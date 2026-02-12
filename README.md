@@ -1,12 +1,10 @@
-# 🚀 YOUR_NAME  
+# 🚀 Niveditha Nagaraj
 
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨+ Niveditha;💻+ Python full stack;🚀+YOUR_SPECIALIZATION;🌟+Open+to+Collaborations!;🎯+YOUR_TAGLINE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=800&lines=✨+Niveditha+Nagaraj;💻+Python+Full+Stack+Developer;🚀+IoT+%7C+Research+Enthusiast;🌟+Streamlit+%7C+Django+%7C+AI+Curious;🎯+Building+Smart+and+Scalable+Systems" />
 </h1>
-
-<div align="center">
 
 <a href="YOUR_LINKEDIN_URL">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -24,9 +22,7 @@
   <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=firefox-browser&logoColor=white" />
 </a>
 
-</div>
-
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=F875AA&style=flat-square" />
 
@@ -36,41 +32,51 @@
 
 ## 🎯 About Me
 
-YOUR_SHORT_INTRODUCTION_PARAGRAPH
+Passionate **Python Full Stack Developer** with strong interest in backend architecture, IoT systems, and research-driven innovations.
 
-Example:
-Passionate Full Stack Developer specializing in scalable backend systems.
-Love building efficient applications and exploring AI/ML integration.
+I love building scalable web applications using **Django**, designing interactive dashboards with **Streamlit**, and exploring intelligent systems like recommendation engines and AI integrations.
+
+Currently exploring:
+- Software Defined Networking (SDN)
+- Network Function Virtualization (NFV)
+- Zero Trust Architecture (ZTA)
+- Smart IoT-based automation systems
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
 ### 🔥 Programming Languages
-• Language 1  
-• Language 2  
-• Language 3  
+- Python  
+- JavaScript  
+- SQL  
 
 ### 🚀 Backend
-• Framework 1  
-• Framework 2  
-• Framework 3  
+- Django  
+- REST APIs  
+- Streamlit  
 
 ### 💅 Frontend
-• React / Vue / Angular  
-• HTML / CSS  
-• Tailwind / Bootstrap  
+- HTML5  
+- CSS3  
+- Bootstrap  
+- Basic JavaScript  
 
 ### 🗄️ Databases
-• PostgreSQL  
-• MySQL  
-• MongoDB  
+- MySQL  
+- PostgreSQL  
 
-### ⚙️ DevOps & Tools
-• Git  
-• Docker  
-• AWS  
-• Linux  
+### ⚙️ Tools
+- Git & GitHub  
+- Linux  
+- VS Code  
+- Arduino IDE  
+
+### 🌐 Research Interests
+- Collaborative Filtering Recommendation Systems  
+- IoT Architecture  
+- SDN & NFV  
+- Zero Trust Security Models  
 
 ---
 
@@ -98,26 +104,48 @@ Love building efficient applications and exploring AI/ML integration.
 
 ## 🏆 Featured Projects
 
-### 🔹 PROJECT_NAME_1
-**Description:** Short description of your project.  
-**Tech Stack:** Tech1, Tech2, Tech3  
-**GitHub:** https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO  
+### 🔹 Smart Shopping Cart (IoT)
+
+**Description:**  
+RFID-based smart cart system using Arduino UNO, LCD display, and buzzer for automatic billing and product identification.
+
+**Tech Stack:** Arduino, RFID, Embedded C, IoT  
 
 ---
 
-### 🔹 PROJECT_NAME_2
-**Description:** Short description of your project.  
-**Tech Stack:** Tech1, Tech2, Tech3  
-**GitHub:** https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO  
+### 🔹 IMDb Movie Data Analysis Dashboard
+
+**Description:**  
+Interactive movie analytics dashboard with graphical visualizations and filtering options.
+
+**Tech Stack:** Python, Pandas, Matplotlib, Streamlit  
+
+---
+
+### 🔹 Recommendation System for Small Retailers
+
+**Description:**  
+Collaborative filtering-based recommendation model designed to improve customer relationships for small shops.
+
+**Tech Stack:** Python (Conceptual Model), Research Study  
+
+---
+
+### 🔹 E-Voting Through ATM Interface
+
+**Description:**  
+Conceptual secure voting system integrated with banking ATM infrastructure.
+
+**Tech Stack:** PHP (Conceptual), Security Architecture  
 
 ---
 
 ## 📚 Current Goals
 
-- [ ] Goal 1  
-- [ ] Goal 2  
-- [ ] Goal 3  
-- [ ] Certification / Learning  
+- [ ] Master Advanced Django & REST Framework  
+- [ ] Build Production-Level Full Stack Project  
+- [ ] Publish Research Paper  
+- [ ] Learn AI/ML Integration in Web Apps  
 
 ---
 
@@ -125,10 +153,11 @@ Love building efficient applications and exploring AI/ML integration.
 
 I’m open to working on:
 
-• Open Source Projects  
-• AI/ML Projects  
-• Web Applications  
-• Backend Systems  
+- Open Source Projects  
+- IoT-Based Solutions  
+- Backend Systems  
+- Research-Oriented Projects  
+- AI-Integrated Web Applications  
 
 ---
 
@@ -143,6 +172,6 @@ I’m open to working on:
 <div align="center">
 
 ✨ *Thanks for visiting my profile!*  
-🚀 Let’s build something amazing together.
+🚀 Let’s build secure, smart & scalable systems together.
 
 </div>
