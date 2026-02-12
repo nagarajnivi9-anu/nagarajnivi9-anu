@@ -3,7 +3,7 @@ Niveditha K N
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨+Niveditha K N;💻+Full Stack Developer;🚀+MCA;🌟+Open+to+Collaborations!;🎯+Fresher" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨+Niveditha K N;💻+Python Full Stack Developer;🚀+Masters of Computer Applications;🌟+Open+to+Collaborations!;🎯+Fresher" />
 </h1>
 
 <div align="center">
