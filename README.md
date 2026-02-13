@@ -3,7 +3,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=800&lines=✨+Niveditha+Nagaraj;💻+Python+Full+Stack+Developer;🚀+IoT+%7C+Research+Enthusiast;🌟+Streamlit+%7C+Django+%7C+AI+Curious;🎯+Building+Smart+and+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=800&lines=✨+Niveditha+Nagaraj;💻+Python+Full+Stack+Developer;🌟+Streamlit+%7C+Django+%7C+AI+Curious;" />
 </h1>
 
 <a href="YOUR_LINKEDIN_URL">
