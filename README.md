@@ -56,16 +56,6 @@ I enjoy building scalable web applications using **Django**, creating interactiv
 ---
 
 
-# 📈 Top Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarajnivi9-anu&layout=compact&theme=radical&hide_border=true" width="48%" />
-
-</div>
-
----
-
 # 🏆 Featured Projects
 
 
